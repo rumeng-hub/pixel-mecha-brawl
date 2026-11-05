@@ -1,0 +1,4 @@
+# none — this project is a single HTML file
+/tmp/
+*.log
+.DS_Store
